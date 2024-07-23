@@ -1,0 +1,7 @@
+This is a simple CNN project to try and detect the presence of Pneumonia in a patient using chest X-rays
+
+The idea was picked up from projectlearn.io - https://projectlearn.io/learn/machine-learning-and-ai/project/cnn-that-detects-pneumonia-from-chest-x-rays-169
+Credits for model structure, data preprocessing instructions - https://towardsdatascience.com/pneumonia-detection-pushing-the-boundaries-of-human-ability-with-deep-learning-ce08dbd0dc20
+
+dataset - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
