@@ -1,0 +1,11 @@
+This notebook was made an an attempt to get a grasp on the concept of AutoEncoders.
+
+The fact that AutoEncoders are effectively able to compress and reconstruct data in a way such that it exposes
+underlying anomalies is fascinating, and there are sure to be very many use cases of this unsupervised learning technique.
+
+The dataset used in this notebook can be found here - https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset/data
+
+The reference used for 
+        a) ANN based AutoEncoder - https://www.youtube.com/watch?v=S31E-ftRfQI
+        b) LSTM cell based AutoEncoder - 
+
