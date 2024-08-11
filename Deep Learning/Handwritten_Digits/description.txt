@@ -1,0 +1,8 @@
+These notebooks are to make a comparative study between Convolutional Neural Networks and Artificial Neural Networks
+in the context of image processing. The dataset used is the standard MNIST handwritten digits dataset, which is 
+pre-cleaned and requires very little preprocessing. 
+        Although not apparent at first glance, we can notice that the CNN is able to pick up and extract more features
+than the ANN due to the convolutional layers specialised for image processing. both models perform very well at about
+99% accuracy on the training set but the real differences can be noticed when the test set is usedm where the CNN
+edges out the ANN marginally. We can conclude that, in datasets having more complex images and features, the CNN will
+perform much better than the ANN. 
